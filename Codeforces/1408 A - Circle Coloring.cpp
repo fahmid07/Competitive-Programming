@@ -1,3 +1,5 @@
+// Codeforces 1408 A - Circle Coloring
+
 #include<bits/stdc++.h>
 #include<vector>
 #include<algorithm>
