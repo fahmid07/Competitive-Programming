@@ -1,3 +1,5 @@
+// Codeforces 1425 A - Arena of Greed
+
 #include<bits/stdc++.h>
 #include<algorithm>
 using namespace std;
